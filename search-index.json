@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Home",
+    "url": "index.html",
+    "description": "A fast, offline-first site for greener software.",
+    "keywords": "pwa offline sustainability green software performance"
+  },
+  {
+    "title": "About",
+    "url": "about.html",
+    "description": "What this demo is and how it works.",
+    "keywords": "about demo offline-first service worker"
+  },
+  {
+    "title": "Principles",
+    "url": "principles.html",
+    "description": "Core principles for energy-aware code and infrastructure.",
+    "keywords": "principles energy efficiency patterns"
+  },
+  {
+    "title": "Guides",
+    "url": "guides.html",
+    "description": "Frontend, backend, and data guides.",
+    "keywords": "guides tutorial optimization backend frontend data"
+  },
+  {
+    "title": "Tools",
+    "url": "tools.html",
+    "description": "Tools that help measure and reduce waste.",
+    "keywords": "tools analyzer autoscale lifecycle manager efficiency"
+  },
+  {
+    "title": "Calculator",
+    "url": "calculator.html",
+    "description": "Estimate energy and CO\u2082 for a workload.",
+    "keywords": "calculator co2 energy impact emissions"
+  },
+  {
+    "title": "Case Studies",
+    "url": "case-studies.html",
+    "description": "Real-world examples of greener decisions.",
+    "keywords": "case studies caching bitrate serverless edge"
+  },
+  {
+    "title": "Glossary",
+    "url": "glossary.html",
+    "description": "Definitions for key terms.",
+    "keywords": "glossary definitions terminology"
+  },
+  {
+    "title": "Resources",
+    "url": "resources.html",
+    "description": "Further reading and links.",
+    "keywords": "resources links books articles"
+  },
+  {
+    "title": "FAQ",
+    "url": "faq.html",
+    "description": "Common questions answered.",
+    "keywords": "faq questions pwa search"
+  },
+  {
+    "title": "Contact",
+    "url": "contact.html",
+    "description": "Contact info placeholder.",
+    "keywords": "contact form email"
+  },
+  {
+    "title": "Search",
+    "url": "search.html",
+    "description": "Search across all pages client-side.",
+    "keywords": "search lunr tfidf client-side"
+  }
+]

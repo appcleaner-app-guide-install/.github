@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="description" content="Sustainable Tech Toolkit — greener software, practical guides, calculators, and an offline-first demo."/>
+  <title>Guides · Sustainable Tech Toolkit</title>
+  <link rel="manifest" href="manifest.webmanifest"/>
+  <meta name="theme-color" content="#0ea5e9"/>
+  <link rel="icon" href="icon-192.png" type="image/png"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  
+<header class="header">
+  <div class="container" style="display:flex;align-items:center;justify-content:space-between;gap:16px;">
+    <a class="brand" href="index.html" aria-label="Go to homepage">
+      <img src="logo.svg" alt="Sustainable Tech Toolkit logo"/><span class="brand-title">Sustainable Tech Toolkit</span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="about.html">About</a>
+      <a href="principles.html">Principles</a>
+      <a href="guides.html">Guides</a>
+      <a href="tools.html">Tools</a>
+      <a href="calculator.html">Calculator</a>
+      <a href="case-studies.html">Case Studies</a>
+      <a href="glossary.html">Glossary</a>
+      <a href="resources.html">Resources</a>
+      <a href="faq.html">FAQ</a>
+      <a href="search.html">Search</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <button class="theme-toggle" id="themeToggle" aria-pressed="false" aria-label="Toggle color theme">Toggle theme</button>
+      <a class="badge" href="manifest.webmanifest" download>Installable PWA</a>
+    </div>
+  </div>
+</header>
+
+  <main class="container">
+    
+<section class="section">
+  <h1 class="title">Guides</h1>
+  <div class="grid grid-3">
+    <article class="card"><h3>Frontend</h3><p>Optimize rendering, avoid layout thrash, and embrace lazy-loading.</p><a href="resources.html">Read more →</a></article>
+    <article class="card"><h3>Backend</h3><p>Profile hotspots, use async I/O, and adopt event-driven architectures.</p><a href="resources.html">Read more →</a></article>
+    <article class="card"><h3>Data</h3><p>Partition carefully, compress, and use lifecycle policies for cold data.</p><a href="resources.html">Read more →</a></article>
+  </div>
+</section>
+
+  </main>
+  
+<footer class="footer">
+  <div class="container footer-inner">
+    <small>© <span id="year"></span> Sustainable Tech Toolkit — Built as an offline-first demo.</small>
+    <div style="display:flex;gap:10px;align-items:center;">
+      <a href="resources.html" class="badge">More resources</a>
+      <a href="https://example.com" class="badge" rel="noopener" target="_blank">External</a>
+    </div>
+  </div>
+</footer>
+
+  <script src="main.js" defer></script>
+</body>
+</html>

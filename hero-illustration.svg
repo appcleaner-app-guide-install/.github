@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Abstract eco-technology illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="300" rx="24" fill="url(#bg)"/>
+  <g fill="rgba(255,255,255,0.9)">
+    <circle cx="140" cy="160" r="60"/>
+    <circle cx="220" cy="110" r="20"/>
+    <circle cx="340" cy="140" r="40"/>
+    <rect x="440" y="110" width="180" height="100" rx="14"/>
+    <circle cx="680" cy="140" r="50"/>
+    <rect x="760" y="120" width="80" height="80" rx="16"/>
+  </g>
+  <g fill="#0b1020" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans'">
+    <text x="40" y="70" font-size="30" font-weight="700">Sustainable Tech Toolkit</text>
+    <text x="40" y="105" font-size="18" opacity="0.9">Practical, beautiful, and offline-first handbook for greener software.</text>
+  </g>
+</svg>
